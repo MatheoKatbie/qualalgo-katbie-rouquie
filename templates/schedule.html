@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Emploi du temps</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 20px;
+        background-color: #f5f5f5;
+      }
+
+      .schedule-container {
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        padding: 20px;
+        overflow-x: auto;
+      }
+
+      .schedule-table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 800px;
+      }
+
+      .schedule-table th {
+        background-color: #4a5568;
+        color: white;
+        padding: 12px;
+        text-align: center;
+        font-weight: 500;
+        position: sticky;
+        top: 0;
+        z-index: 10;
+      }
+
+      .time-cell {
+        width: 80px;
+        padding: 8px;
+        text-align: center;
+        background-color: #f8f9fa;
+        border-right: 1px solid #e2e8f0;
+        font-weight: 500;
+        position: sticky;
+        left: 0;
+        z-index: 5;
+      }
+
+      .course-cell {
+        height: 100px;
+        border: 1px solid #e2e8f0;
+        padding: 8px;
+        vertical-align: top;
+      }
+
+      .course-block {
+        height: 100%;
+        border-radius: 6px;
+        padding: 8px;
+        font-size: 0.9em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .course-title {
+        font-weight: bold;
+        font-size: 1.1em;
+        margin-bottom: 4px;
+      }
+
+      .course-info {
+        font-size: 0.9em;
+        line-height: 1.4;
+      }
+
+      .course-room {
+        font-weight: 500;
+      }
+
+      .course-groups {
+        font-size: 0.8em;
+        margin-top: 4px;
+        opacity: 0.8;
+      }
+
+      .filters {
+        margin-bottom: 20px;
+        padding: 15px;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0,0,0,0.1);
+      }
+      
+      .filters select {
+        padding: 8px;
+        margin-right: 15px;
+        border: 1px solid #e2e8f0;
+        border-radius: 5px;
+        font-size: 0.9em;
+        min-width: 200px;
+      }
+      
+      .filters button {
+        padding: 8px 15px;
+        background-color: #4a5568;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      
+      .filters button:hover {
+        background-color: #2d3748;
+      }
+      
+      .clear-filters {
+        background-color: #e53e3e !important;
+        margin-left: 10px;
+      }
+      
+      .clear-filters:hover {
+        background-color: #c53030 !important;
+      }
+
+      .time-header {
+        font-size: 0.9em;
+        color: #666;
+        margin-bottom: 4px;
+      }
+
+      h1 {
+        color: #2d3748;
+        margin-bottom: 20px;
+        text-align: center;
+      }
+
+      .empty-cell {
+        background-color: #f8f9fa;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Emploi du temps</h1>
+    
+    <div class="filters">
+      <form id="filter-form" method="get">
+        <select name="tutor" id="tutor-filter">
+          <option value="">Tous les professeurs</option>
+          {% for tutor in tutors %}
+          <option value="{{ tutor }}" {% if tutor == selected_tutor %}selected{% endif %}>
+            {{ tutor }}
+          </option>
+          {% endfor %}
+        </select>
+        
+        <select name="room" id="room-filter">
+          <option value="">Toutes les salles</option>
+          {% for room in rooms %}
+          <option value="{{ room }}" {% if room == selected_room %}selected{% endif %}>
+            {{ room }}
+          </option>
+          {% endfor %}
+        </select>
+        
+        <select name="group" id="group-filter">
+          <option value="">Tous les groupes</option>
+          {% for group in groups %}
+          <option value="{{ group }}" {% if group == selected_group %}selected{% endif %}>
+            {{ group }}
+          </option>
+          {% endfor %}
+        </select>
+        
+        <button type="submit">Filtrer</button>
+        <button type="button" class="clear-filters" onclick="window.location.href='/'">
+          Réinitialiser les filtres
+        </button>
+      </form>
+    </div>
+    
+    <div class="schedule-container">
+      <table class="schedule-table">
+        <tr>
+          <th>Horaire</th>
+          {% for day in days %}
+          <th>{{ days_fr[day] }}</th>
+          {% endfor %}
+        </tr>
+        {% for time_slot, formatted_time in time_slots %}
+        <tr>
+          <td class="time-cell">{{ formatted_time }}</td>
+          {% for day in days %}
+          <td class="course-cell">
+            {% if schedule_data[day][time_slot] %} {% set course = schedule_data[day][time_slot][0] %}
+            <div class="course-block" style="background-color: {{ course.color_bg }}; color: {{ course.color_txt }}">
+              <div>
+                <div class="time-header">{{ formatted_time }}</div>
+                <div class="course-title">{{ course.module }}</div>
+                <div class="course-info">
+                  {{ course.tutor }}<br>
+                  <span class="course-room">{{ course.room }}</span><br>
+                  {{ course.type }}
+                </div>
+              </div>
+              <div class="course-groups">
+                {{ course.groups|join(', ') }}
+              </div>
+            </div>
+            {% endif %}
+          </td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+
+    <script>
+      // Mise à jour automatique lors de la sélection
+      document.querySelectorAll('select').forEach(select => {
+        select.addEventListener('change', () => {
+          document.getElementById('filter-form').submit();
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,7568 @@
+[
+  {
+    "id": 428443,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 352155,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 679,
+          "train_prog": "BUT1",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "Pfolio1",
+        "display": {
+          "color_bg": "#af3014",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MN",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428444,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352154,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 682,
+          "train_prog": "BUT1",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "Pfolio1",
+        "display": {
+          "color_bg": "#af3014",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MN",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428445,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352153,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 685,
+          "train_prog": "BUT1",
+          "name": "4",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "Pfolio1",
+        "display": {
+          "color_bg": "#af3014",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428446,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 352152,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 676,
+          "train_prog": "BUT1",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "Pfolio1",
+        "display": {
+          "color_bg": "#af3014",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428447,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 353331,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "PFolio3",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "AL",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428448,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 353330,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "PFolio3",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CT",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428449,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 1040,
+    "day": "m",
+    "course": {
+      "id": 353329,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Portfolio",
+        "abbrev": "PFolio3",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CT",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428450,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 352079,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 675,
+          "train_prog": "BUT1",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [
+        {
+          "username": "MDM"
+        }
+      ],
+      "module": {
+        "name": "Initiation au développement",
+        "abbrev": "DevS1",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428451,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 352088,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 675,
+          "train_prog": "BUT1",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428452,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352087,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428453,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 352086,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428454,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 352085,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428455,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 352084,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428456,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 480,
+    "day": "th",
+    "course": {
+      "id": 352083,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428457,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 945,
+    "day": "f",
+    "course": {
+      "id": 352082,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428458,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 352081,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428459,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352080,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Mathématiques discrètes",
+        "abbrev": "MathsInfo",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428460,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 352092,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 685,
+          "train_prog": "BUT1",
+          "name": "4",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CGIT",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428461,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 480,
+    "day": "th",
+    "course": {
+      "id": 352091,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 682,
+          "train_prog": "BUT1",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CGIT",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428463,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352089,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 676,
+          "train_prog": "BUT1",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CGIT",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 434394,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 351986,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 685,
+          "train_prog": "BUT1",
+          "name": "4",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CGIT",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 434393,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 351898,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 685,
+          "train_prog": "BUT1",
+          "name": "4",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CGIT",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428472,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 353292,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmes efficaces",
+        "abbrev": "PrEf",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "PSO",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428473,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 353291,
+      "type": "TD",
+      "room_type": "MM",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmes efficaces",
+        "abbrev": "PrEf",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSO",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428474,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 353290,
+      "type": "TD",
+      "room_type": "MM",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmes efficaces",
+        "abbrev": "PrEf",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSO",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428475,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 353289,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmes efficaces",
+        "abbrev": "PrEf",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSO",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 434405,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 1040,
+    "day": "tu",
+    "course": {
+      "id": 353248,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 688,
+          "train_prog": "BUT2",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "SQL et programmation",
+        "abbrev": "SQL",
+        "display": {
+          "color_bg": "#83c989",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "LN",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 435556,
+    "room": {
+      "id": 19,
+      "name": "Amphi2"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 353249,
+      "type": "CM",
+      "room_type": "A",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 688,
+          "train_prog": "BUT2",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428476,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 945,
+    "day": "th",
+    "course": {
+      "id": 391545,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428477,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 855,
+    "day": "f",
+    "course": {
+      "id": 353311,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 688,
+          "train_prog": "BUT2",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428478,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 480,
+    "day": "tu",
+    "course": {
+      "id": 353310,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428479,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 353309,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 695,
+          "train_prog": "BUT2",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428480,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 353308,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 694,
+          "train_prog": "BUT2",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428481,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 353307,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 695,
+          "train_prog": "BUT2",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428482,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 353306,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 694,
+          "train_prog": "BUT2",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428483,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 353301,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 692,
+          "train_prog": "BUT2",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428484,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 353300,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 691,
+          "train_prog": "BUT2",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428485,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 353299,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 692,
+          "train_prog": "BUT2",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428486,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 353298,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 691,
+          "train_prog": "BUT2",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428487,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 855,
+    "day": "th",
+    "course": {
+      "id": 353297,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428488,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 353296,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428489,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 353295,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428490,
+    "room": {
+      "id": 35,
+      "name": "B010"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 353294,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428491,
+    "room": {
+      "id": 35,
+      "name": "B010"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 353293,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Cryptographie",
+        "abbrev": "Crypto",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428492,
+    "room": {
+      "id": 39,
+      "name": "Labo"
+    },
+    "start_time": 945,
+    "day": "f",
+    "course": {
+      "id": 353312,
+      "type": "TP",
+      "room_type": "L",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English3",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JTA",
+    "id_visio": null,
+    "number": 11
+  },
+  {
+    "id": 428493,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 353315,
+      "type": "TP",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Communication professionnelle",
+        "abbrev": "Comm",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "ALE",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428494,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 353314,
+      "type": "TP",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Communication professionnelle",
+        "abbrev": "Comm",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "ALE",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428495,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 353313,
+      "type": "TP",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Communication professionnelle",
+        "abbrev": "Comm",
+        "display": {
+          "color_bg": "#6a3747",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "ALE",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428496,
+    "room": {
+      "id": 18,
+      "name": "Amphi1"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 393164,
+      "type": "CM",
+      "room_type": "A",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 688,
+          "train_prog": "BUT2",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité et au-delà du relationnel",
+        "abbrev": "Q+Rel",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428497,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 945,
+    "day": "w",
+    "course": {
+      "id": 393165,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité et au-delà du relationnel",
+        "abbrev": "Q+Rel",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428498,
+    "room": {
+      "id": 35,
+      "name": "B010"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 393166,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité et au-delà du relationnel",
+        "abbrev": "Q+Rel",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428499,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 1040,
+    "day": "w",
+    "course": {
+      "id": 393167,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité et au-delà du relationnel",
+        "abbrev": "Q+Rel",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428500,
+    "room": {
+      "id": 20,
+      "name": "Amphi3"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 393168,
+      "type": "CM",
+      "room_type": "A",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 688,
+          "train_prog": "BUT2",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428501,
+    "room": {
+      "id": 35,
+      "name": "B010"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 393169,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428502,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 393170,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428503,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 945,
+    "day": "w",
+    "course": {
+      "id": 393171,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428504,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 393172,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 694,
+          "train_prog": "BUT2",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428505,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 855,
+    "day": "w",
+    "course": {
+      "id": 393173,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 695,
+          "train_prog": "BUT2",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PSE",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428506,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 855,
+    "day": "w",
+    "course": {
+      "id": 393174,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 691,
+          "train_prog": "BUT2",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428507,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 393175,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 692,
+          "train_prog": "BUT2",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Méthode d'optimisation",
+        "abbrev": "Optim",
+        "display": {
+          "color_bg": "#8fba06",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 434424,
+    "room": {
+      "id": 36,
+      "name": "B115"
+    },
+    "start_time": 480,
+    "day": "tu",
+    "course": {
+      "id": 408379,
+      "type": "TP",
+      "room_type": "Table",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 694,
+          "train_prog": "BUT2",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Numérique responsable",
+        "abbrev": "N.Resp",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LR",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 434423,
+    "room": {
+      "id": 36,
+      "name": "B115"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 408381,
+      "type": "TP",
+      "room_type": "Table",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 694,
+          "train_prog": "BUT2",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Numérique responsable",
+        "abbrev": "N.Resp",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LR",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428508,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 755,
+    "day": "tu",
+    "course": {
+      "id": 354259,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428509,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 354258,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428510,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 755,
+    "day": "m",
+    "course": {
+      "id": 354257,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428511,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 354256,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428512,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 1040,
+    "day": "f",
+    "course": {
+      "id": 354255,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428513,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 354254,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428514,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 1040,
+    "day": "m",
+    "course": {
+      "id": 354253,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428515,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 354252,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428516,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 354251,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428517,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 855,
+    "day": "f",
+    "course": {
+      "id": 354250,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité algorithmique",
+        "abbrev": "Qual.Algo",
+        "display": {
+          "color_bg": "#207a3f",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428518,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 945,
+    "day": "f",
+    "course": {
+      "id": 354265,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 497,
+          "train_prog": "BUT3",
+          "name": "23",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "FP",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428519,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 855,
+    "day": "f",
+    "course": {
+      "id": 354264,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "FP",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428520,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 755,
+    "day": "f",
+    "course": {
+      "id": 354263,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428521,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 354262,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428522,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 354261,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "FP",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428523,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 354260,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation avancée",
+        "abbrev": "Prog++",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428524,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 354266,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428525,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 354267,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428526,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 354268,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428527,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 354269,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428528,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 354270,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428529,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 354271,
+      "type": "TD",
+      "room_type": "B007",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Programmation multimédia",
+        "abbrev": "MultiM",
+        "display": {
+          "color_bg": "#c098fd",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YE",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428530,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 1040,
+    "day": "tu",
+    "course": {
+      "id": 354273,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Automatisation",
+        "abbrev": "Autom",
+        "display": {
+          "color_bg": "#83c989",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428531,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 945,
+    "day": "f",
+    "course": {
+      "id": 354272,
+      "type": "TD",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Automatisation",
+        "abbrev": "Autom",
+        "display": {
+          "color_bg": "#83c989",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428546,
+    "room": {
+      "id": 19,
+      "name": "Amphi2"
+    },
+    "start_time": 480,
+    "day": "th",
+    "course": {
+      "id": 354274,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 699,
+          "train_prog": "BUT3",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428532,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 390019,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428533,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 390018,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428534,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 1040,
+    "day": "tu",
+    "course": {
+      "id": 390017,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428535,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 390016,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428536,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 390015,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428537,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 390014,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428538,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 390013,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 8
+  },
+  {
+    "id": 428539,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 390012,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 7
+  },
+  {
+    "id": 428540,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 390011,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428541,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 945,
+    "day": "w",
+    "course": {
+      "id": 390010,
+      "type": "TP",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428542,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 1040,
+    "day": "w",
+    "course": {
+      "id": 390009,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428543,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 480,
+    "day": "tu",
+    "course": {
+      "id": 390008,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428544,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 390007,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428545,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 390006,
+      "type": "TD",
+      "room_type": "B219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Qualité de développement",
+        "abbrev": "DevQua",
+        "display": {
+          "color_bg": "#ef6ade",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "JMB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428547,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 855,
+    "day": "w",
+    "course": {
+      "id": 354275,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 699,
+          "train_prog": "BUT3",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Nouvelles BD",
+        "abbrev": "NewDB",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428548,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 353915,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Modélisation mathématique",
+        "abbrev": "MM",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428549,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 855,
+    "day": "f",
+    "course": {
+      "id": 353872,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco++",
+        "display": {
+          "color_bg": "#1cf1a3",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428550,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 353871,
+      "type": "TD",
+      "room_type": "M+",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Économie durable et numérique",
+        "abbrev": "Eco++",
+        "display": {
+          "color_bg": "#1cf1a3",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428551,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 354285,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428552,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 480,
+    "day": "tu",
+    "course": {
+      "id": 354284,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428553,
+    "room": {
+      "id": 39,
+      "name": "Labo"
+    },
+    "start_time": 855,
+    "day": "tu",
+    "course": {
+      "id": 354283,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428554,
+    "room": {
+      "id": 39,
+      "name": "Labo"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 354282,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 11
+  },
+  {
+    "id": 428555,
+    "room": {
+      "id": 39,
+      "name": "Labo"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 354281,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428556,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 354280,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428557,
+    "room": {
+      "id": 39,
+      "name": "Labo"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 354279,
+      "type": "TP",
+      "room_type": "L+219",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Anglais",
+        "abbrev": "English5",
+        "display": {
+          "color_bg": "#274c56",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "VK",
+    "id_visio": null,
+    "number": 11
+  },
+  {
+    "id": 428558,
+    "room": {
+      "id": 36,
+      "name": "B115"
+    },
+    "start_time": 665,
+    "day": "th",
+    "course": {
+      "id": 354287,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Conférences",
+        "abbrev": "Conf",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "FB",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428559,
+    "room": {
+      "id": 36,
+      "name": "B115"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 354286,
+      "type": "CM",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Conférences",
+        "abbrev": "Conf",
+        "display": {
+          "color_bg": "#5310f0",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "FB",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 428562,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 352122,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428565,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 352119,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428560,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 352124,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428561,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352123,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428563,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 352121,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428564,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352120,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "YF",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428566,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 352118,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428567,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352117,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428568,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 352116,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428569,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 352115,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428570,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352114,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428571,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 352113,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428572,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 480,
+    "day": "tu",
+    "course": {
+      "id": 352112,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428573,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 352111,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428574,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 352110,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428575,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352109,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428576,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352108,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428577,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 352107,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "PRG",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428578,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 480,
+    "day": "th",
+    "course": {
+      "id": 352106,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428579,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 352105,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428580,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352104,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428581,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 352103,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428582,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352102,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 4
+  },
+  {
+    "id": 428583,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 352101,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Comparaison d’approches algorithmiques",
+        "abbrev": "SAE Algos",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "MFC",
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428584,
+    "room": {
+      "id": 207,
+      "name": "1er Etage Bat B"
+    },
+    "start_time": 855,
+    "day": "w",
+    "course": {
+      "id": 352127,
+      "type": "Projet",
+      "room_type": "6M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 675,
+          "train_prog": "BUT1",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Installation d’un poste pour le développement",
+        "abbrev": "Install",
+        "display": {
+          "color_bg": "#fe16f4",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 9
+  },
+  {
+    "id": 428585,
+    "room": {
+      "id": 207,
+      "name": "1er Etage Bat B"
+    },
+    "start_time": 945,
+    "day": "w",
+    "course": {
+      "id": 352126,
+      "type": "Projet",
+      "room_type": "6M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 675,
+          "train_prog": "BUT1",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Installation d’un poste pour le développement",
+        "abbrev": "Install",
+        "display": {
+          "color_bg": "#fe16f4",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 10
+  },
+  {
+    "id": 428586,
+    "room": {
+      "id": 107,
+      "name": "A011"
+    },
+    "start_time": 480,
+    "day": "f",
+    "course": {
+      "id": 352125,
+      "type": "DS",
+      "room_type": "CTRL",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 675,
+          "train_prog": "BUT1",
+          "name": "CE",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Installation d’un poste pour le développement",
+        "abbrev": "Install",
+        "display": {
+          "color_bg": "#fe16f4",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": true
+    },
+    "tutor": "PS",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 428591,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 352147,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428603,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 352135,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LN",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428605,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 352133,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LN",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428595,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352143,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428587,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 352151,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 687,
+          "train_prog": "BUT1",
+          "name": "4B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428588,
+    "room": {
+      "id": 37,
+      "name": "B219"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352150,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428589,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352149,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428590,
+    "room": {
+      "id": 34,
+      "name": "B009"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 352148,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428592,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352146,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428593,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 352145,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428594,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 352144,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428596,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352142,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428597,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 352141,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428598,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352140,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428599,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 352139,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428600,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 352138,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 684,
+          "train_prog": "BUT1",
+          "name": "3B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 5
+  },
+  {
+    "id": 428601,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 352137,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428602,
+    "room": {
+      "id": 26,
+      "name": "B103"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 352136,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 6
+  },
+  {
+    "id": 428604,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 352134,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 686,
+          "train_prog": "BUT1",
+          "name": "4A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LN",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428606,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352132,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 683,
+          "train_prog": "BUT1",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "LN",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428607,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 570,
+    "day": "m",
+    "course": {
+      "id": 352131,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 680,
+          "train_prog": "BUT1",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428608,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 352130,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 678,
+          "train_prog": "BUT1",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428609,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 665,
+    "day": "m",
+    "course": {
+      "id": 352129,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 677,
+          "train_prog": "BUT1",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428610,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 352128,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 681,
+          "train_prog": "BUT1",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Création d’une base de données",
+        "abbrev": "CreaBD",
+        "display": {
+          "color_bg": "#fca552",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "OT",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428611,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 353316,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 690,
+          "train_prog": "BUT2",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement appli",
+        "abbrev": "DevApp",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "EP",
+    "id_visio": null,
+    "number": 29
+  },
+  {
+    "id": 428612,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 353317,
+      "type": "TD",
+      "room_type": "B",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 693,
+          "train_prog": "BUT2",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement appli",
+        "abbrev": "DevApp",
+        "display": {
+          "color_bg": "#474a09",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "EP",
+    "id_visio": null,
+    "number": 29
+  },
+  {
+    "id": 428613,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 855,
+    "day": "w",
+    "course": {
+      "id": 353328,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 18
+  },
+  {
+    "id": 428614,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 570,
+    "day": "th",
+    "course": {
+      "id": 353327,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 20
+  },
+  {
+    "id": 428615,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 945,
+    "day": "tu",
+    "course": {
+      "id": 353326,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 17
+  },
+  {
+    "id": 428616,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 1040,
+    "day": "th",
+    "course": {
+      "id": 353325,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 21
+  },
+  {
+    "id": 428617,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 1040,
+    "day": "f",
+    "course": {
+      "id": 353324,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 24
+  },
+  {
+    "id": 428618,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 665,
+    "day": "tu",
+    "course": {
+      "id": 353323,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 16
+  },
+  {
+    "id": 428619,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 480,
+    "day": "f",
+    "course": {
+      "id": 353322,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 22
+  },
+  {
+    "id": 428620,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 570,
+    "day": "tu",
+    "course": {
+      "id": 353321,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 15
+  },
+  {
+    "id": 428621,
+    "room": {
+      "id": 32,
+      "name": "B007"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 353320,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 23
+  },
+  {
+    "id": 428622,
+    "room": {
+      "id": 30,
+      "name": "B004"
+    },
+    "start_time": 480,
+    "day": "th",
+    "course": {
+      "id": 353319,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 697,
+          "train_prog": "BUT2",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 19
+  },
+  {
+    "id": 428623,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 1040,
+    "day": "m",
+    "course": {
+      "id": 353318,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 696,
+          "train_prog": "BUT2",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement d'une application",
+        "abbrev": "DevApp-A",
+        "display": {
+          "color_bg": "#fb899b",
+          "color_txt": "#000000"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "ALE",
+    "id_visio": null,
+    "number": 3
+  },
+  {
+    "id": 428629,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 1040,
+    "day": "tu",
+    "course": {
+      "id": 354304,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 57
+  },
+  {
+    "id": 428624,
+    "room": {
+      "id": 29,
+      "name": "B106"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 390024,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 112
+  },
+  {
+    "id": 428625,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 390023,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 505,
+          "train_prog": "BUT3",
+          "name": "1B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 111
+  },
+  {
+    "id": 428626,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 390022,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 111
+  },
+  {
+    "id": 428627,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 390021,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 504,
+          "train_prog": "BUT3",
+          "name": "1A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 112
+  },
+  {
+    "id": 428628,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 354305,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 56
+  },
+  {
+    "id": 428630,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 855,
+    "day": "m",
+    "course": {
+      "id": 354303,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 56
+  },
+  {
+    "id": 428631,
+    "room": {
+      "id": 28,
+      "name": "B105"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 354302,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 56
+  },
+  {
+    "id": 428632,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 945,
+    "day": "m",
+    "course": {
+      "id": 354301,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 57
+  },
+  {
+    "id": 428633,
+    "room": {
+      "id": 24,
+      "name": "B101"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 354300,
+      "type": "Projet",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": null,
+    "id_visio": null,
+    "number": 57
+  },
+  {
+    "id": 428634,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 480,
+    "day": "w",
+    "course": {
+      "id": 354293,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 21
+  },
+  {
+    "id": 428635,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 665,
+    "day": "w",
+    "course": {
+      "id": 354292,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 21
+  },
+  {
+    "id": 428636,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 570,
+    "day": "f",
+    "course": {
+      "id": 354291,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 703,
+          "train_prog": "BUT3",
+          "name": "2",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 22
+  },
+  {
+    "id": 428637,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 665,
+    "day": "f",
+    "course": {
+      "id": 354290,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 704,
+          "train_prog": "BUT3",
+          "name": "3",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 22
+  },
+  {
+    "id": 428638,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 354289,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 21
+  },
+  {
+    "id": 428639,
+    "room": {
+      "id": 31,
+      "name": "B005"
+    },
+    "start_time": 480,
+    "day": "f",
+    "course": {
+      "id": 354288,
+      "type": "TD",
+      "room_type": "E",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 700,
+          "train_prog": "BUT3",
+          "name": "1",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "Développement avancé",
+        "abbrev": "SAE5",
+        "display": {
+          "color_bg": "#9a5c0d",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "CDU",
+    "id_visio": null,
+    "number": 22
+  },
+  {
+    "id": 434395,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 480,
+    "day": "m",
+    "course": {
+      "id": 376951,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "R5.A.11",
+        "abbrev": "Data",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 434396,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 1040,
+    "day": "m",
+    "course": {
+      "id": 376953,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "R5.A.11",
+        "abbrev": "Data",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 1
+  },
+  {
+    "id": 434380,
+    "room": {
+      "id": 33,
+      "name": "B008"
+    },
+    "start_time": 945,
+    "day": "w",
+    "course": {
+      "id": 376950,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 506,
+          "train_prog": "BUT3",
+          "name": "2A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "R5.A.11",
+        "abbrev": "Data",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 434388,
+    "room": {
+      "id": 27,
+      "name": "B104"
+    },
+    "start_time": 480,
+    "day": "f",
+    "course": {
+      "id": 376954,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 507,
+          "train_prog": "BUT3",
+          "name": "2B",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "R5.A.11",
+        "abbrev": "Data",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 2
+  },
+  {
+    "id": 434379,
+    "room": {
+      "id": 25,
+      "name": "B102"
+    },
+    "start_time": 570,
+    "day": "w",
+    "course": {
+      "id": 376949,
+      "type": "TP",
+      "room_type": "M",
+      "week": 4,
+      "year": 2025,
+      "groups": [
+        {
+          "id": 705,
+          "train_prog": "BUT3",
+          "name": "3A",
+          "is_structural": true
+        }
+      ],
+      "supp_tutor": [],
+      "module": {
+        "name": "R5.A.11",
+        "abbrev": "Data",
+        "display": {
+          "color_bg": "#2d68c7",
+          "color_txt": "#FFFFFF"
+        }
+      },
+      "pay_module": null,
+      "is_graded": false
+    },
+    "tutor": "RB",
+    "id_visio": null,
+    "number": 1
+  }
+]

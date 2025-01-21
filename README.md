@@ -1,1 +1,0 @@
-# qualalgo-katbie-rouquie
